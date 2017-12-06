@@ -18,6 +18,10 @@
   justify-content: space-between;
 }
 
+.menu--signup {
+  margin-left: auto;
+}
+
 .menu__links {
   display: flex;
   justify-content: flex-end;
